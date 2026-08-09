@@ -59,8 +59,8 @@ Moving from 130nm → 90nm/45nm follows standard CMOS scaling relations (feature
 ```
 vco-adc-90nm/
 ├── README.md
-├── paper/                  # full manuscript (PDF)
-├── figures/                 # schematics & simulation waveforms exported from Virtuoso
+├── paper/                     # full manuscript (PDF)
+├── figures/                   # schematics & simulation waveforms exported from Virtuoso
 │   ├── fig1_vfc_block.png
 │   ├── fig3_vco_schematic.png
 │   ├── fig4_vco_transient.png
@@ -70,9 +70,9 @@ vco-adc-90nm/
 │   ├── fig8_counter_transient.png
 │   ├── fig9_tuning_curve.png
 │   └── fig10_full_adc_schematic.png
-├── docs/
-│   └── design_guide.md      # step-by-step rebuild guide (no PDK files needed to read it)
-└── LICENSE                  # MIT
+├── Desig_Report                # step-by-step rebuild guide (no PDK files needed to read it)
+│      
+└── LICENSE                     # MIT
 ```
 
 ## Status / Future Work
