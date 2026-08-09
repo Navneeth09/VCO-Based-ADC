@@ -2,7 +2,7 @@
 
 Comparative performance evaluation of a current-starved ring-VCO-based ADC, ported from a 130nm reference design to 90nm CMOS, with a projected 45nm scaling analysis. Targeted at low-power implantable/wearable biomedical applications (pacemakers, neural implants, WBAN).
 
-> **Note on tooling:** This project was designed and simulated in Cadence Virtuoso against a foundry 90nm CMOS PDK. Neither the tool nor the PDK can be redistributed here due to licensing/NDA restrictions. This repo contains the architecture, equations, figures, and results from the work, plus a from-scratch design guide so the circuit can be reproduced by anyone with their own Cadence + PDK access. See [`docs/design_guide.md`](docs/design_guide.md).
+> **Note on tooling:** This project was designed and simulated in Cadence Virtuoso against a foundry 90nm CMOS PDK. Neither the tool nor the PDK can be redistributed here due to licensing/NDA restrictions. This repo contains the architecture, equations, figures, and results from the work, plus a from-scratch design guide so the circuit can be reproduced by anyone with their own Cadence + PDK access. See [`Guide_Report.pdf`](Guide_Report).
 
 ## Architecture
 
