@@ -13,7 +13,7 @@ The ADC performs indirect time-domain conversion in two stages:
    ```
    fout(Vin) = f0 + KVCO · Vin
    ```
-
+<img src="figures/VFC.png" alt="VFC block diagram" width="450"/>
 2. **Frequency-to-Digital Converter (FDC)** — a 4-bit asynchronous ripple counter (built from NAND-based D flip-flops) counts VCO edges within each sampling window `Ts = 1/fs`, producing the digital output word:
 
    ```
