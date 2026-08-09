@@ -82,6 +82,16 @@ vco-adc-90nm/
 - [ ] Post-layout parasitic extraction (90nm PDK)
 - [ ] Full end-to-end integration simulation
 
+## Research / Publication Disclosure
+
+This project is associated with a manuscript submitted to the ISED 2026 Conference.
+
+This GitHub repository contains a technical guide and supporting project material and is intended to remain distinct from the submitted conference manuscript.
+
+Before publicly uploading or redistributing the manuscript itself, manuscript-derived figures, or other publication-specific material, contributors and users should review and comply with the applicable ISED 2026 copyright, publication, review, and distribution guidelines.
+
+The repository does not grant permission to redistribute third-party copyrighted material.
+
 ## Reference
 
 D. M. Ellaithy, "Voltage-controlled oscillator based analog-to-digital converter in 130-nm CMOS for biomedical applications," *J. Electr. Syst. Inf. Technol.*, vol. 10, no. 38, Aug. 2023. DOI: [10.1186/s43067-023-00109-x](https://doi.org/10.1186/s43067-023-00109-x)
