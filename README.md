@@ -96,6 +96,16 @@ The repository does not grant permission to redistribute third-party copyrighted
 
 D. M. Ellaithy, "Voltage-controlled oscillator based analog-to-digital converter in 130-nm CMOS for biomedical applications," *J. Electr. Syst. Inf. Technol.*, vol. 10, no. 38, Aug. 2023. DOI: [10.1186/s43067-023-00109-x](https://doi.org/10.1186/s43067-023-00109-x)
 
+---
+
+### Authors
+
+**K Navneeth · P Uttam Reddy  · P Bala Sai**
+
+*Electronics & Communication Engineering, IIIT Naya Raipur*
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Note: this covers the documentation/analysis in this repo, not any third-party PDK or tool, which remain under their own licenses and are not included here.
