@@ -23,8 +23,12 @@ The ADC performs indirect time-domain conversion in two stages:
 ```
 Vin → [5-stage current-starved ring VCO] → fout → [4-bit async reset counter] → Digital Code (D1–D4)
 ```
-Complete flow aricheture is explained in the image below
-<img src="figures/VFC.png" alt="VFC block diagram" width="1000"/>
+The complete system architecture, from voltage input to digital output, is illustrated below:
+
+<p align="center">
+  <img src="figures/VFC.png" alt="VCO-based ADC system architecture" width="500"/>
+</p>
+
 ## Key Results (90nm, this work)
 
 | Vin (V) | fout | Digital Output |
